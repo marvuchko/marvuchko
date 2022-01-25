@@ -24,7 +24,7 @@
 
 <div align="center">
   
-[![Marko's GitHub stats](https://github-readme-stats.vercel.app/api?username=marvuchko&theme=gruvbox&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marvuchko&theme=gruvbox&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Marko's GitHub stats](https://github-readme-stats.vercel.app/api?username=marvuchko&theme=dark&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marvuchko&theme=dark&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
   
 <div>
   
