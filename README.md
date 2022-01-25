@@ -24,6 +24,8 @@
 
 <div align="center">
   
-[![Marko's GitHub stats](https://github-readme-stats.vercel.app/api?username=marvuchko&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Marko's GitHub stats](https://github-readme-stats.vercel.app/api?username=marvuchko&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
   
 <div>
+  
+<hr>
