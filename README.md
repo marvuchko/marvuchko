@@ -21,7 +21,7 @@
 
 ### 📫 How to reach me: 
 
-<div align="left" dir="auto">
+<div align="left" style="display: flex;">
 <a href="https://www.linkedin.com/in/marko-vu%C4%8Dkovi%C4%87-6513a3139/" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn URL"></a>
   
 <a href="https://twitter.com/wizardOfTmrw" rel="nofollow"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter URL"></a>
