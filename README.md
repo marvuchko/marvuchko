@@ -2,10 +2,11 @@
 
 <div align="left" dir="auto">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=whit">
+<img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white">
+<img src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white">
+<img src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white">
 </div>
-
-<div align="right" dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/20931e76adaf7898bfc7b87960d0d7efa011ce835179f2191fbb2f23f0098e31/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6d2d6a6f76616e6f76696326636f6c6f723d626c7565"><img src="https://camo.githubusercontent.com/20931e76adaf7898bfc7b87960d0d7efa011ce835179f2191fbb2f23f0098e31/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6d2d6a6f76616e6f76696326636f6c6f723d626c7565" alt="" data-canonical-src="https://komarev.com/ghpvc/?username=marvuchko&amp;color=blue" style="max-width: 100%;"></a></div>
 
 ### About me:
 
