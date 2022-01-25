@@ -1,3 +1,5 @@
+<hr>
+
 ### Hi there, my name is Marko 👋
 
 <div align="left" dir="auto">
