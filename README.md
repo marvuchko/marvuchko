@@ -1,7 +1,8 @@
 ### Hi there, my name is Marko 👋
 
+<div align="right" dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/20931e76adaf7898bfc7b87960d0d7efa011ce835179f2191fbb2f23f0098e31/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6d2d6a6f76616e6f76696326636f6c6f723d626c7565"><img src="https://camo.githubusercontent.com/20931e76adaf7898bfc7b87960d0d7efa011ce835179f2191fbb2f23f0098e31/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6d2d6a6f76616e6f76696326636f6c6f723d626c7565" alt="" data-canonical-src="https://komarev.com/ghpvc/?username=marvuchko&amp;color=blue" style="max-width: 100%;"></a></div>
 
-About me:
+### About me:
 
 * 🔭 I’m currently working on Trading Bot, Affiliate Marketing Webapp and Java library for creational patterns.
 * 🌱 I’m currently learning AWS, Golang, Astro, Next.js Nest.js
