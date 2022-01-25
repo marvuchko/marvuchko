@@ -22,4 +22,6 @@
 
 <hr>
 
-[![Marko's GitHub stats](https://github-readme-stats.vercel.app/api?username=marvuchko)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+[![Marko's GitHub stats](https://github-readme-stats.vercel.app/api?username=marvuchko&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<div>
