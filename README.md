@@ -10,16 +10,14 @@
 
 ### About me:
 
-* 🔭 I’m currently working on Trading Bot, Affiliate Marketing Webapp and Java library for creational patterns.
-* 🌱 I’m currently learning AWS, Golang, Astro, Next.js Nest.js
-* 👯 I’m looking to collaborate on Algorithmic Trading, TradeBots, WebApps, Board Games.
-* 💬 Ask me about Java, SpringBoot, React, PostgreSQL, Reddis, Docker.
-* ⚡ Fun fact: I'm a huge fan of chess and history.
+* 🌱 I’m currently learning Azure. 
+* 💬 Ask me about Java, SpringBoot, PostgreSQL, Docker.
+* ⚡ Fun fact: I'm a huge fan of art and game development.
 
 ### 📫 How to reach me: 
 
 <div align="left" style="display: flex;">
-<a href="https://www.linkedin.com/in/marko-vu%C4%8Dkovi%C4%87-6513a3139/" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn URL"></a><a href="https://twitter.com/wizardOfTmrw" rel="nofollow"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter URL"></a><a href="https://www.instagram.com/wizard_of_tomorrow/" rel="nofollow"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram URL"></a>
+<a href="https://www.linkedin.com/in/marko-vu%C4%8Dkovi%C4%87-6513a3139/" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn URL"></a><a href="https://twitter.com/wizardOfTmrw" rel="nofollow"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X URL"></a>
 </div>
 
 <hr>
